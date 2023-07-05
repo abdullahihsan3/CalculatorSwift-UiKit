@@ -9,7 +9,12 @@ The goal of the project is to understand the stack (horizontal and vertical) usi
 <img src="Documentation/Landscape.png" width="400" height="400" />
 </p>
 
-## What I Leart From This Application
+## App Images
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/109294768/251142920-7030118e-d603-48de-bc7c-c6f540a75114.png" width="200" height="400"  />
+</p>
+
+## What I Learnt From This Application
 
 The application allowed me to learn:
   * Layout using stacks.
