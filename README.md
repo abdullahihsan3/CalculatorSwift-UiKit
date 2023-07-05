@@ -1,8 +1,8 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+## Calculator Layout Boss Challenge
 
-# Calculator Layout Boss Challenge
+## Goal Of the Project
 
-No knowledge is your own until you put it into practice. Using what you've learnt about auto layout, stack views and setting constraints, create the following UI. 
+The goal of the project is to understand the stack (horizontal and vertical) using UiKit. 
 
 ## Portrait
 
@@ -11,17 +11,21 @@ No knowledge is your own until you put it into practice. Using what you've learn
 ## Landscape
 ![Landscape](Documentation/Landscape.png)
 
-This is a difficult challenge. You pass the challenge if you can create the vertical and horizontal stacks required for the layout. Once you've done that, you can also get extra credit if you figure out how to layout the small details.
+## What I Leart From This Application
 
-Bronze Medal: If you can figure out how to have the layout be constrained to the Safe Areas in Portrait and Landscape. (Notice the distance to the edges is different between landscape and portrait.
+The application allowed me to learn:
+  * Layout using stacks.
+  * Adjusting the width and height using Xcode
+  * Applying autolayout and constraints
 
-Silver Medal: If you can figure out how to indent the Label with the 0 so that there is 20px distance from the right edge of the screen.
+## 🚀 About Me
+I'm a mobile application developer working mainly in Flutter, Swift and SwiftUI. I work mainly to enhance my technical skill as well as gain managerial skills by acquiring a job in a reputable, growth-oriented organization, which provides constant personal development. A dedicated and passionate Mobile Application Developer focusing predominantly on Front end designs, but always able and willing to adapt to and learn new languages and databases.
 
-Gold Medal: If you can figure out how to make the 0 button take up twice as much width as the "." and "=" buttons.
+## Authors
 
-If you get stuck, check out the solution video in the next lesson.
+- [@abdullahihsan3](https://www.github.com/abdullahihsan3)
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+## 🛠 Skills
+Flutter, Swift, SwiftUI, Java, Figma
 
-![End Banner](Documentation/readme-end-banner.png)
-
+[![My Skills](https://skills.thijs.gg/icons?i=flutter,dart,swift,java,mongodb)](https://skills.thijs.gg)
