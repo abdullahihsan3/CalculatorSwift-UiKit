@@ -1,4 +1,3 @@
-## Calculator Layout Boss Challenge
 
 ## Goal Of the Project
 
