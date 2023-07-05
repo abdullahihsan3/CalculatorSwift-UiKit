@@ -4,12 +4,11 @@
 
 The goal of the project is to understand the stack (horizontal and vertical) using UiKit. 
 
-## Portrait
-
-![Portrait](Documentation/Portrait.png)
-
-## Landscape
-![Landscape](Documentation/Landscape.png)
+##  Screenshots
+<p align="center">
+<img src="Documentation/Portrait.png" width="200" height="400" />
+<img src="Documentation/Landscape.png" width="200" height="400" />
+</p>
 
 ## What I Leart From This Application
 
