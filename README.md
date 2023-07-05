@@ -6,8 +6,8 @@ The goal of the project is to understand the stack (horizontal and vertical) usi
 
 ##  Screenshots
 <p align="center">
-<img src="Documentation/Portrait.png" width="200" height="400" />
-<img src="Documentation/Landscape.png" width="200" height="400" />
+<img src="Documentation/Portrait.png" width="400" height="400" />
+<img src="Documentation/Landscape.png" width="400" height="400" />
 </p>
 
 ## What I Leart From This Application
